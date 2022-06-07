@@ -1,0 +1,306 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="self-swagger" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swagger/apis_trasversales/italia/api_Verti.yaml">
+          <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview">
+            <state>
+              <general_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/swagger/apis_trasversales/italia/api_Verti_configuration.yaml">
+          <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview">
+            <state>
+              <general_editor relative-caret-position="32">
+                <caret line="447" column="19" selection-start-line="447" selection-start-column="19" selection-end-line="447" selection-end-column="19" />
+              </general_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1642763436673" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="15" lastUsed="1643965402931" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1643021693827" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1640088966357" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="61" lastUsed="1653924962220" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RelatedPolicyParticipant</find>
+      <find>coverageSim</find>
+      <find>CoverageCompl</find>
+      <find>alOf</find>
+      <find>allOf</find>
+      <find>Mortgage</find>
+      <find>HomeDetail</find>
+      <find>HomeRisk</find>
+      <find>x-country-specific: IT</find>
+      <find>format: $date</find>
+      <find>format:</find>
+      <find>format: $</find>
+      <find>configuration api</find>
+      <find>KOIT00</find>
+      <find>KOIT003</find>
+      <find>IdentificationMethod</find>
+      <find>ClientComplete</find>
+      <find>date-time</find>
+      <find>/comeround/applicationUtilities/</find>
+      <find>birthdate</find>
+      <find>login</find>
+      <find>security</find>
+      <find>banner</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/swagger/q&amp;b/italia/api_Verti.yaml" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" />
+      <option value="$PROJECT_DIR$/index.html" />
+      <option value="$PROJECT_DIR$/swagger/apis_trasversales/italia/api_Verti_configuration.yaml" />
+      <option value="$PROJECT_DIR$/swagger/apis_trasversales/italia/api_Verti.yaml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="self-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="apis_trasversales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="apis_trasversales" type="462c0819:PsiDirectoryNode" />
+              <item name="italia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="self-swagger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Scratches" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="HTTP Request" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="HTTP Request" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="self-swagger-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39642000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1627604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info id="Bookmarks" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38526213" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32987142" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32987142" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.20326409" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Flow" order="13" />
+      <window_info anchor="bottom" id="Profiler" order="14" weight="0.32987142" />
+      <window_info anchor="bottom" id="Endpoints" order="15" />
+      <window_info anchor="bottom" id="Python Packages" order="16" />
+      <window_info anchor="bottom" id="Services" order="17" weight="0.35657763" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="2" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="6" side_tool="true" weight="0.32994792" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Services</value>
+      <value>Version Control</value>
+      <value>Notifications</value>
+      <value>Profiler</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="705" y="394" width="499" height="337" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1653925032389">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="705" y="394" width="499" height="337" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1653925032389" />
+    <state x="464" y="191" width="992" height="737" key="SettingsEditor" timestamp="1651768911767">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="464" y="191" width="992" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1651768911767" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/q&amp;b/italia/api_Verti.yaml" />
+    <entry file="file://$PROJECT_DIR$/swagger/autoservicio_clientes/italia/api_Verti.yaml" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="110" column="33" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/apis_trasversales/italia/api_Verti.yaml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview">
+        <state>
+          <general_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swagger/apis_trasversales/italia/api_Verti_configuration.yaml">
+      <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview">
+        <state>
+          <general_editor relative-caret-position="32">
+            <caret line="447" column="19" selection-start-line="447" selection-start-column="19" selection-end-line="447" selection-end-column="19" />
+          </general_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

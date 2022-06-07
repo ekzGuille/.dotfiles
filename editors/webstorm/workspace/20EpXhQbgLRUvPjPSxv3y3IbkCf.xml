@@ -1,0 +1,755 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="qb-home-ita-pipeline-webhosting" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/pages/additional-data/partnership/partnership.page.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/pages/additional-data/partnership/partnership.page.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="3" lastUsed="1640071717291" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1638876704805" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="24" lastUsed="1651768928517" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1640072157792" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1651768891109" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="1" lastUsed="1640108071101" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="181" lastUsed="1651768930734" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="2" lastUsed="1638876012533" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.push</find>
+      <find>JSON.stringify)</find>
+      <find>alert('TODO</find>
+      <find>alert('</find>
+      <find>showCommercialCommunnication</find>
+      <find>VertiLoginRequest</find>
+      <find>notaryNum</find>
+      <find>todo integ</find>
+      <find>partnershipId</find>
+      <find>https://d2go64w4712gob.cloudfront.net/swagger/apis_trasversales/italia/api_Verti.html#/Authentications/</find>
+      <find>alreadyUser</find>
+      <find>VertiLogin</find>
+      <find>UsersIdRequest</find>
+      <find>userMail</find>
+      <find>getUser</find>
+      <find>GetUserByIdRequest</find>
+      <find>userAccountForm</find>
+      <find>selectUsersIdState</find>
+      <find>privacyPolicyVersion</find>
+      <find>qb-ita-summary</find>
+      <find>&lt;qb-ita-summary</find>
+      <find>integration</find>
+      <find>newQuotationNotLoggedRegisteredIntegration</find>
+      <find>/** @deprecated</find>
+      <find>alert(</find>
+      <find>policyId</find>
+      <find>differencePrice</find>
+      <find>priceLabel</find>
+      <find>SUMMARY</find>
+      <find>'pending</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'@shared'</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/app/pages/home-data/home-type</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/abstract-flow</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/policy-data/coverages</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/policy-data</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/home-data</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/home-data/home-regime</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/additional-data</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/policy-holder-data</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/policy-actions</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/home-data/alarm-type</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/confirm-data/save-quote</dir>
+      <dir>$PROJECT_DIR$/src/app/store/swagger/authentications/vertiLogin</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/src/app/store/integration</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/home-data/zipcode</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/modify-policy-summary</dir>
+      <dir>$PROJECT_DIR$/src/app/core/services/integration</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/cancel-policy/summary</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/confirm-data/project-summary</dir>
+      <dir>$PROJECT_DIR$/src/app/pages/flow-abstract</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/app/pages/flow-routes/modify-policy/additional-data/additional-data.steps.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/floor-number/floor-number.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/home-regime/home-regime.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/home-size/home-size.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/home-use/home-use.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/mortgage/mortgage.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/zipcode/zipcode.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-data/coverages/coverages.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-data/packages/packages.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-data/starting-date/starting-date.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-data/verti-policy/verti-policy.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-data/policy-data.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/scss/base/generics.scss" />
+      <option value="$PROJECT_DIR$/src/app/scss/layout/form-components.scss" />
+      <option value="$PROJECT_DIR$/src/app/store/flow-data/general/general.reducer.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-actions/policy-actions.page.html" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-actions/policy-actions.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/modify-policy-actions/modify-policy-actions.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/alarm-type/alarm-type.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/store/swagger/authentications/login/effects.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/confirm-data/save-quote/save-quote.page.html" />
+      <option value="$PROJECT_DIR$/src/app/pages/confirm-data/project-summary/project-summary.page.html" />
+      <option value="$PROJECT_DIR$/src/app/global/enums.ts" />
+      <option value="$PROJECT_DIR$/src/app/shared/components/input/input.component.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/additional-data/mortgage-form/mortgage-form.page.html" />
+      <option value="$PROJECT_DIR$/src/app/store/swagger/applicationUtilities/usersId/actions.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/additional-data/mortgage-form/mortgage-form.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/store/swagger/authentications/login/service.ts" />
+      <option value="$PROJECT_DIR$/src/app/store/swagger/authentications/refreshLogin/service.ts" />
+      <option value="$PROJECT_DIR$/src/app/store/swagger/authentications/vertiLogin/service.ts" />
+      <option value="$PROJECT_DIR$/src/app/core/guards/page.guard.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-data/email/email.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-holder-data/policy-holder-residence/policy-holder-residence.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-holder-data/home-address/home-address.page.html" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-holder-data/home-address/home-address.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/home-data/home-type/home-type.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/modify-policy-summary/modify-policy-summary.page.html" />
+      <option value="$PROJECT_DIR$/src/app/pages/flow-abstract/flow-abstract.ts" />
+      <option value="$PROJECT_DIR$/src/app/core/models/integrations.model.ts" />
+      <option value="$PROJECT_DIR$/src/app/store/integration/integration.reducer.ts" />
+      <option value="$PROJECT_DIR$/src/app/store/integration/integration.selectors.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/policy-holder-data/policy-holder-detail/policy-holder-detail.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/core/services/integration/integration.service.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/modify-policy-summary/modify-policy-summary.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/additional-data/policy-form/policy-form.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/global/constants.ts" />
+      <option value="$PROJECT_DIR$/src/app/global/utils.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/cancel-policy/summary/summary.page.ts" />
+      <option value="$PROJECT_DIR$/src/environments/environment.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/confirm-data/project-summary/project-summary.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/confirm-data/save-quote/save-quote.page.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qb-home-ita-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="additional-data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="additional-data" type="462c0819:PsiDirectoryNode" />
+              <item name="partnership" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="qb-home-ita-pipeline-webhosting-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47694000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21276042" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="npm" order="6" side_tool="true" />
+      <window_info id="Bookmarks" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32987142" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.29129577" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.22205737" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.16387795" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Duplicates" order="8" weight="0.32987142" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33021653" />
+      <window_info anchor="bottom" id="File Transfer" order="11" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" order="0" side_tool="true" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Notifications" order="1" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Find</value>
+      <value>Duplicates</value>
+      <value>TODO</value>
+      <value>Version Control</value>
+      <value>github.copilotToolWindow</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="555" y="197" width="800" height="719" key="#Plugins" timestamp="1638875734275">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="197" width="800" height="719" key="#Plugins/0.27.1920.1053@0.27.1920.1053" timestamp="1638875734275" />
+    <state x="301" y="110" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1643026096129">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="301" y="105" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1637695392837" />
+    <state x="301" y="110" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1643026096129" />
+    <state x="693" y="303" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637014967732">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="303" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1637014967732" />
+    <state x="543" y="288" width="824" height="538" key="IDE.errors.dialog" timestamp="1637016789471">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="543" y="288" width="824" height="538" key="IDE.errors.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1637016789471" />
+    <state x="464" y="191" width="992" height="737" key="SettingsEditor" timestamp="1642518585586">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="464" y="191" width="992" height="737" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1642518585586" />
+    <state x="689" y="286" width="540" height="524" key="StructurePopup" timestamp="1640105083941">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="689" y="286" width="540" height="524" key="StructurePopup/0.32.1920.1048@0.32.1920.1048" timestamp="1640105083941" />
+    <state width="688" height="1046" key="SwitcherDM" timestamp="1640110791514">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="653" height="1051" key="SwitcherDM/0.27.1920.1053@0.27.1920.1053" timestamp="1638879346046" />
+    <state width="688" height="1046" key="SwitcherDM/0.32.1920.1048@0.32.1920.1048" timestamp="1640110791514" />
+    <state x="757" y="475" width="396" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1640071761796">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="757" y="475" width="396" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1920.1048@0.32.1920.1048" timestamp="1640071761796" />
+    <state x="276" y="119" width="1644" height="596" key="dock-window-1" timestamp="1640196405349">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713013" />
+    <state x="276" y="119" width="1644" height="596" key="dock-window-1/0.32.1920.1048@0.32.1920.1048" timestamp="1640196405349" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-2" timestamp="1637012713014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-2/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713014" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-3" timestamp="1637012713014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-3/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713014" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-4" timestamp="1637012713014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-4/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713014" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-5" timestamp="1637012713014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-5/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713014" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-6" timestamp="1637012713014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-6/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713014" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-7" timestamp="1637012713014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-7/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713014" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-8" timestamp="1637012713015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-8/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713015" />
+    <state x="100" y="127" width="1149" height="853" key="dock-window-9" timestamp="1637012713015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1149" height="853" key="dock-window-9/0.27.1920.1053@0.27.1920.1053" timestamp="1637012713015" />
+    <state x="996" y="80" width="661" height="964" key="find.popup" timestamp="1643192203187">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="996" y="75" width="661" height="772" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1638879618726" />
+    <state x="996" y="80" width="661" height="964" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1643192203187" />
+    <state x="347" y="263" width="672" height="682" key="search.everywhere.popup" timestamp="1644348327710">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="347" y="259" width="672" height="685" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1639677327456" />
+    <state x="347" y="263" width="672" height="682" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1644348327710" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/pages/additional-data/mortgage-form/mortgage-form.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="235" column="58" lean-forward="true" selection-start-line="235" selection-start-column="58" selection-end-line="235" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/models/swagger/securityInfo.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/models/swagger/naturalPerson.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/models/swagger/contactMethod.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/models/swagger/user.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/applicationUtilities/getUserById/service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/authentications/vertiLogin/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/authentications/vertiLogin/service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="59" lean-forward="true" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/models/swagger/projectBase.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/applicationUtilities/selectors.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/confirm-data/save-quote/save-quote.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/guards/page.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="321" column="10" selection-start-line="321" selection-start-column="10" selection-end-line="321" selection-end-column="10" />
+          <folding>
+            <element signature="e#5959#6651#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@angular/forms/forms.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="2120" column="4" selection-start-line="2120" selection-start-column="4" selection-end-line="2120" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/policy/selectors.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/confirm-data/project-summary/project-summary.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/flow-data/general/general.reducer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/modify-policy-actions/modify-policy-actions.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/policy-holder-data/home-address/home-address.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="81" column="33" lean-forward="true" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/policy-data/coverages/coverages.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/policy-holder-data/home-address/home-address.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/policy-holder-data/policy-holder-detail/policy-holder-detail.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home-data/zipcode/zipcode.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/cancel-policy/summary/summary.page.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/modify-policy-summary/modify-policy-summary.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/modify-policy-summary/modify-policy-summary.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home-data/home-type/home-type.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="88" column="43" selection-start-line="88" selection-start-column="43" selection-end-line="88" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/policy-holder-data/policy-holder-detail/policy-holder-detail.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="116" column="50" selection-start-line="116" selection-start-column="50" selection-end-line="116" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/models/integrations.model.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/pages/modify-policy-summary/modify-policy-summary.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/integration/integration.selectors.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/store/integration/integration.reducer.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/pages/additional-data/policy-form/policy-form-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/additional-data/policy-form/policy-form.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="183" column="22" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/global/enums.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="126" column="7" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/global/constants.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e2e/src/example/examplePage.e2e-spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="77" column="7" lean-forward="true" selection-start-line="77" selection-start-column="7" selection-end-line="77" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="71" selection-start-line="7" selection-start-column="71" selection-end-line="7" selection-end-column="71" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/cancel-policy/reasons/reasons.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="84" column="21" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/services/integration/integration.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/confirm-data/project-summary/project-summary.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="113" column="32" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/policy-holder-data/policy-holder-residence/policy-holder-residence.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="330" column="2" selection-start-line="330" selection-start-column="2" selection-end-line="330" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/policy-data/email/email.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/confirm-data/save-quote/save-quote.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="271" column="32" selection-start-line="271" selection-start-column="10" selection-end-line="271" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/flow-abstract/flow-abstract.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="1510" column="26" selection-start-line="1510" selection-start-column="26" selection-end-line="1510" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/global/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/cancel-policy/summary/summary.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shared/components/combo-box/combo-box.component.html" />
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="5409" column="10" selection-start-line="5409" selection-start-column="10" selection-end-line="5409" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/additional-data/partnership/partnership.page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/additional-data/partnership/partnership.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

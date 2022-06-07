@@ -1,0 +1,204 @@
+{
+    "sync.gist": "d0d359643c5ddfac9325790a88e5293d",
+    "sync.autoDownload": true,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "sync.quietSync": true,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "php.validate.executablePath": null,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "workbench.editor.highlightModifiedTabs": true,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.autoSave": "off",
+    "editor.tabSize": 2,
+    "editor.fontSize": 12,
+    "html.format.indentInnerHtml": true,
+    "extensions.ignoreRecommendations": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "material-icon-theme.hidesExplorerArrows": false,
+    "material-icon-theme.folders.color": "#7cb342",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Hasklug Nerd Font Mono, Hasklig, Menlo, Monaco, Consolas, 'Courier New', monospace, 'Droid Sans Mono', 'monospace', 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#7bff00",
+        "activityBarBadge.foreground": "#000000",
+        "activityBar.inactiveForeground": "#78b871",
+        "list.activeSelectionForeground": "#C6FF00",
+        "list.inactiveSelectionForeground": "#C6FF00",
+        "list.highlightForeground": "#C6FF00",
+        "scrollbarSlider.activeBackground": "#C6FF0035",
+        "editorSuggestWidget.highlightForeground": "#C6FF00",
+        "textLink.foreground": "#C6FF00",
+        "progressBar.background": "#C6FF00",
+        "pickerGroup.foreground": "#C6FF00",
+        "tab.activeBorder": "#C6FF00",
+        "notificationLink.foreground": "#C6FF00",
+        "activityBar.activeBorder": "#C6FF00",
+    },
+    "sync.forceUpload": true,
+    "todohighlight.keywords": [
+        {
+            "text": "TODO",
+            "color": "#000000",
+            "backgroundColor": "#F1C40F",
+        },
+        {
+            "text": "WIP",
+            "color": "#000000",
+            "backgroundColor": "#2ECC71",
+        },
+        {
+            "text": "FIXME",
+            "color": "#000000",
+            "backgroundColor": "#F06292",
+        },
+        {
+            "text": "HACK",
+            "color": "#000000",
+            "backgroundColor": "#3498DB",
+        },
+        {
+            "text": "NOTE",
+            "color": "#000000",
+            "backgroundColor": "#854D27",
+        },
+    ],
+    "editor.acceptSuggestionOnEnter": "smart",
+    "liveshare.featureSet": "insiders",
+    "git.autofetch": true,
+    "scm.alwaysShowRepositories": true,
+    "editor.linkedEditing": true,
+    "scm.defaultViewMode": "tree",
+    "editor.lineHeight": 20,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+    },
+    "git.confirmSync": false,
+    "workbench.editor.decorations.colors": true,
+    "workbench.editor.decorations.badges": true,
+    "workbench.colorTheme": "Monokai Pro (Filter Machine)",
+    "window.titleBarStyle": "custom",
+    "editor.minimap.enabled": false,
+    "angular.enable-strict-mode-prompt": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.suggest.preview": true,
+    "git.enableCommitSigning": true,
+    "editor.bracketPairColorization.enabled": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+    // "javascript.inlayHints.parameterNames.enabled": "literals",
+    // "typescript.inlayHints.parameterNames.enabled": "literals",
+    // "javascript.inlayHints.parameterTypes.enabled": true,
+    // "typescript.inlayHints.parameterTypes.enabled": true,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "yaml.schemas": {
+        "file:///home/gsese/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "editor.accessibilitySupport": "off",
+    "redhat.telemetry.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        },
+        "editor.formatOnSave": false
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        },
+        "editor.formatOnSave": false
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        },
+        "editor.formatOnSave": false
+    },
+    "editor.inlineSuggest.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    },
+    "terminal.integrated.cursorStyle": "line",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": false
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "yaml.customTags": [
+        "!And",
+        "!And sequence",
+        "!If",
+        "!If sequence",
+        "!Not",
+        "!Not sequence",
+        "!Equals",
+        "!Equals sequence",
+        "!Or",
+        "!Or sequence",
+        "!FindInMap",
+        "!FindInMap sequence",
+        "!Base64",
+        "!Join",
+        "!Join sequence",
+        "!Cidr",
+        "!Ref",
+        "!Sub",
+        "!Sub sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!ImportValue sequence",
+        "!Select",
+        "!Select sequence",
+        "!Split",
+        "!Split sequence"
+    ],
+    "yaml.validate": false,
+    "explorer.fileNesting.enabled": true,
+    "cSpell.userWords": [
+        "birthdate",
+        "FISCALCODE",
+        "fwmovilidad",
+        "Verti",
+        "ZIPCODE"
+    ],
+}

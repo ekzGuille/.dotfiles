@@ -1,0 +1,698 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-receipts/payment-receipts.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-choose/payment-choose.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2960">
+              <caret line="162" column="3" selection-start-line="162" selection-start-column="3" selection-end-line="162" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list/invoice-list.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/core/.eslintrc.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list/invoice-list.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Detail</find>
+      <find>Func</find>
+      <find>]</find>
+      <find>contacts</find>
+      <find>initializeForm</find>
+      <find>loadUserData</find>
+      <find>information-modal.error.title</find>
+      <find>&lt;invoice</find>
+      <find>this.invoices =</find>
+      <find>totalReceipts =</find>
+      <find>this.totalReceipts =</find>
+      <find>selectionVisible</find>
+      <find>payment-methods.my_payment_methods.new.credit_card</find>
+      <find>=== 'account'</find>
+      <find>policyId</find>
+      <find>*ngIf=&quot;selectedPaymentMethodType === 'account'&quot;</find>
+      <find>reset</find>
+      <find>change</find>
+      <find>componentReady</find>
+      <find>CarPolicyComponent.isTomadorLogged</find>
+      <find>paymentsReady</find>
+      <find>publish</find>
+      <find>ready</find>
+      <find>invoices</find>
+      <find>this.tomadorLogged !== undefined</find>
+      <find>this.tomadorLogged</find>
+      <find>tomadorLogged</find>
+      <find>this.tomadorLo</find>
+      <find>paymentMethodReceived</find>
+      <find>paymentMethodLoaded</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/_modals/_abstract-modal</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/web-view</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/process-failure</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/_modals/_user/change-password-method-selection</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list/popover-receipt-payment</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/download-item/popover-download-item</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/_modals/policy-modal</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/providers/version-check</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/providers/loader</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib</dir>
+      <dir>$PROJECT_DIR$/../self-evobox-ionic5/src/app/pages/abstract/page-abstract</dir>
+      <dir>$PROJECT_DIR$/../self-evobox-ionic5/src/app/pages/flows/open-receipt-payment</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/providers/api</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/global-position/global-position-insurance-entry</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/header-group</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/login/login-form</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/enums</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/login/login-quick-management-v2</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/your-pending-topics</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/providers/user-registration</dir>
+      <dir>$PROJECT_DIR$/../self-evobox-ionic5/src/app</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/providers/transfer</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/my-profile/contact-data</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/payment-method-selection</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/policy-list/policy-data/car-policy</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-choose</dir>
+      <dir>$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/login/registration/registration-form-simple/registration-form-simple.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/_abstract/abstract-component/abstract-component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/version-check/version-check.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/policy-list/policy-data/policy/policy.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/push-notifications.service.ts" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/tslint.json" />
+      <option value="$PROJECT_DIR$/projects/core/tslint.json" />
+      <option value="$PROJECT_DIR$/tslint.json" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/faqs/card-faqs/card-faqs.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/utils/utils.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/user/user.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/policy-list/policy-data/car-policy/car-policy.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/api/jwt.interceptor.ts" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/src/app/pages/abstract/page-abstract/page-abstract.component.ts" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/src/app/pages/flows/receipt-payment/receipt-payment.page.ts" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/src/app/pages/flows/open-receipt-payment/open-receipt-payment.page.ts" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/src/app/pages/abstract/flow-abstract-page/flow-abstract.page.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/mat-datepicker-custom/mat-datepicker-custom.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/mat-datepicker-custom/mat-datepicker-custom.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/_modals/_receipts/open-payment-modal/open-payment-modal.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/_assistances/open-assistance-modal/open-assistance-modal.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/core.module.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/_assistances/open-assistance-modal/open-assistance-modal.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/_modals/_receipts/open-payment-modal/open-payment-modal.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/global-position/global-position-insurance-entry/global-position-insurance-entry.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/login/login-form/login-form.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/login/login-quick-management-v2/login-quick-management-v2.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/your-pending-topics/your-pending-topics.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/header-group/header-group.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/_open/open-receipt-payment/open-receipt-payment.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/_open/open-request-assistance/open-request-assistance.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/_open/open-submit-incidence/open-submit-incidence.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/receipt-payment/receipt-payment.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/enums/route-paths.ts" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/src/app/app.component.ts" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/src/app/app-routing.module.ts" />
+      <option value="$PROJECT_DIR$/../self-evobox-ionic5/src/app/providers/login-queryparams-guard/login-queryparams.guard.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/public-api.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/file-uploader/file-uploader.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/transfer/transfer.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/my-profile/contact-data/contact-data.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/providers/insurance/insurance.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-choose/payment-choose.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/new-payment-method-form/new-payment-method-form.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/new-payment-method-form/new-payment-method-form.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/coverage-list/coverage-list.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list/invoice-list.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-choose/payment-choose.component.ts" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-receipts/payment-receipts.component.html" />
+      <option value="$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list/invoice-list.component.ts" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="insurance-detail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="compile_components.sh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self-evobox-components-ionic5" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="insurance-detail" type="462c0819:PsiDirectoryNode" />
+              <item name="invoice-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="85570000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23098958" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="npm" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003626" side_tool="true" weight="0.32756758" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49963742" weight="0.3283582" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.23135135" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49963742" weight="0.45521653" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22906794" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="npm" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003626" side_tool="true" weight="0.32756758" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49963742" weight="0.3283582" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.23135135" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49963742" weight="0.1216992" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="669" y="419" width="648" height="603" key="#ESLint" timestamp="1628528776311">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="669" y="419" width="648" height="603" key="#ESLint/0.27.1920.1053@0.27.1920.1053" timestamp="1628528776310" />
+    <state x="464" y="188" width="992" height="737" key="SettingsEditor" timestamp="1628528478408">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="464" y="188" width="992" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1628528478408" />
+    <state x="623" y="259" width="672" height="685" key="search.everywhere.popup" timestamp="1628528460724">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="685" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1628528460724" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/_assistances/open-assistance-modal/open-assistance-modal.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/_assistances/open-assistance-modal/open-assistance-modal.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/models/self-components-config/self-components-config.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/identification/identification.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="374" column="13" selection-start-line="374" selection-start-column="2" selection-end-line="374" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/login/login-form/login-form.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="116" column="90" lean-forward="true" selection-start-line="116" selection-start-column="79" selection-end-line="116" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/global-position/global-position-insurance-entry/global-position-insurance-entry.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/header-group/header-group.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="266" column="66" selection-start-line="266" selection-start-column="66" selection-end-line="266" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/login/login-form/login-form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="1006" column="32" lean-forward="true" selection-start-line="1006" selection-start-column="32" selection-end-line="1006" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/api/api.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609">
+          <caret line="240" column="25" selection-start-line="240" selection-start-column="25" selection-end-line="240" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/login/login-quick-management-v2/login-quick-management-v2.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="176" column="40" lean-forward="true" selection-start-line="176" selection-start-column="40" selection-end-line="176" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/your-pending-topics/your-pending-topics.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/user-registration/user-registration.ts" />
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/node_modules/typescript/lib/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/node_modules/self-components/dist/core/lib/providers/app-global.service.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/node_modules/self-components/dist/core/lib/enums/route-paths.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/src/app/pages/re-route/re-route.page.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/enums/route-paths.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9660">
+          <caret line="527" column="32" selection-start-line="527" selection-start-column="32" selection-end-line="527" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/src/app/providers/dynamic-content/dynamic-content.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/src/app/providers/login-queryparams-guard/login-queryparams.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/transfer/transfer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/file-uploader/file-uploader.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/documents/documents.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/public-api.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="188" column="10" lean-forward="true" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/api/jwt.interceptor.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="123" column="58" selection-start-line="123" selection-start-column="58" selection-end-line="123" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/my-profile/contact-data/contact-data.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/my-profile/contact-data/contact-data.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="132" column="122" selection-start-line="132" selection-start-column="122" selection-end-line="132" selection-end-column="122" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/node_modules/@angular/common/common.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../self-evobox-ionic5/src/app/styles/ionic.css" />
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/directives/item-safari-fix/item-safari-fix.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/help/help.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/help/help.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/payment-method-selection/payment-method-selection.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/payment-method-selection/payment-method-selection.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/utils/formMask.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/new-payment-method-form/new-payment-method-form.component.ts" />
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/my-profile/payment-methods-v1/payment-methods-v1.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+          <folding>
+            <element signature="e#0#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/my-profile/payment-methods-v1/payment-methods-v1.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1754" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/new-payment-method-form/new-payment-method-form.component.html" />
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/insurance/insurance.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="89" column="2" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/coverage-list/coverage-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/coverage-list/coverage-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/providers/_events/events.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-choose/payment-choose.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/policy-list/policy-data/car-policy/car-policy.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-receipts/payment-receipts.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/payment-choose/payment-choose.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2960">
+          <caret line="162" column="3" selection-start-line="162" selection-start-column="3" selection-end-line="162" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list/invoice-list.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/core/src/lib/components/insurance-detail/invoice-list/invoice-list.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

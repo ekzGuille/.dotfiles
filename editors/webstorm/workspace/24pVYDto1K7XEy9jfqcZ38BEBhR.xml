@@ -1,0 +1,459 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="qb-home-ita-mcf-pipeline-webhosting" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/pages/configuration/configuration.page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/pages/configuration/configuration.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/fwmovilidad-qb-home-ita-components-lib.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/public-api.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/lib/components/combo-box/combo-box.component.module.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/lib/components/button/button.component.module.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1644333801096" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="13" lastUsed="1645779441785" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="1" lastUsed="1644328913231" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="5" lastUsed="1644510231594" />
+    </fileType>
+    <fileType name="SCSS">
+      <summary usageCount="5" lastUsed="1644510115783" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="35" lastUsed="1645779442065" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>--ion-color-primary2</find>
+      <find>be0f0f</find>
+      <find>primary2</find>
+      <find>trash</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/app/scss/theme</dir>
+      <dir>$PROJECT_DIR$/src/app/shared/components/partnerships</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/app/scss/base/colors.scss" />
+      <option value="$PROJECT_DIR$/src/app/shared/components/partnerships/partnerships.component.html" />
+      <option value="$PROJECT_DIR$/src/app/scss/theme/ionic-variables.scss" />
+      <option value="$PROJECT_DIR$/src/app/store/swagger/configurator/partnershipCard/getAllPartnershipCard/actions.ts" />
+      <option value="$PROJECT_DIR$/src/app/shared/components/partnerships/partnerships.component.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/configuration/configuration.page.ts" />
+      <option value="$PROJECT_DIR$/src/app/pages/configuration/configuration.page.html" />
+      <option value="$PROJECT_DIR$/src/app/scss/base/generic.scss" />
+      <option value="$PROJECT_DIR$/src/app/shared/components/partnership/partnership.component.ts" />
+      <option value="$PROJECT_DIR$/src/app/shared/components/integrations/integrations.component.ts" />
+      <option value="$PROJECT_DIR$/src/app/shared/components/integrations/integrations.component.html" />
+      <option value="$PROJECT_DIR$/src/app/shared/components/partnership/partnership.component.html" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@fwmovilidad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="@fwmovilidad" type="462c0819:PsiDirectoryNode" />
+              <item name="qb-home-ita-components-lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qb-home-ita-mcf-pipeline-webhosting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="qb-home-ita-mcf-pipeline-webhosting-history" />
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/../qb-home-ita-pipeline-lib" commandHistoryFileName="qb-home-ita-mcf-pipeline-webhosting-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8507000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3356771" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="npm" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.43273985" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32987142" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32987142" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.21513353" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.27744806" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="documentation.v2" order="1" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Messages</value>
+      <value>Version Control</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="241" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1644327571583">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="555" y="241" width="800" height="637" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1644327571583" />
+    <state x="689" y="286" width="540" height="524" key="StructurePopup" timestamp="1644334200812">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="689" y="286" width="540" height="524" key="StructurePopup/0.32.1920.1048@0.32.1920.1048" timestamp="1644334200812" />
+    <state x="996" y="80" width="543" height="510" key="find.popup" timestamp="1644329321959">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="996" y="80" width="543" height="510" key="find.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1644329321959" />
+    <state x="624" y="253" key="run.anything.popup" timestamp="1644335031327">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="624" y="253" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1644335031327" />
+    <state x="623" y="263" width="672" height="685" key="search.everywhere.popup" timestamp="1644348314146">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="623" y="263" width="672" height="685" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1644348314146" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/scss/base/colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shared/components/partnerships/partnerships.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/scss/theme/ionic-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="70" column="2" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/models/swagger/integrations.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/partnershipCard/getAllPartnershipCard/service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/partnershipCard/getByIdPartnershipCard/service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/integrations/getIntegrations/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/partnershipCard/getByIdPartnershipCard/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/partnershipCard/getAllPartnershipCard/actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/integrations/getIntegrations/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/configuration/configuration.page.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="39" column="80" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
+          <caret line="40" column="90" selection-start-line="40" selection-start-column="90" selection-end-line="40" selection-end-column="90" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/scss/base/generic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shared/components/partnerships/partnerships.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/components/partnership/partnership.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/components/partnership/partnership.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/components/integrations/integrations.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/shared/components/integrations/integrations.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/integrations/selectors.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/store/swagger/configurator/integrations/getIntegrations/effects.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@fwmovilidad/qb-home-ita-components-lib/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@fwmovilidad/qb-lib-ng-components/lib/combo-box/combo-box.component.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@fwmovilidad/qb-lib-ng-components/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@fwmovilidad/qb-lib-ng-components/lib/input/input.module.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@fwmovilidad/qb-lib-ng-components/fwmovilidad-qb-lib-ng-components.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@fwmovilidad/qb-lib-ng-components/public-api.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@fwmovilidad/qb-lib-ng-components/lib/combo-box/combo-box.component.module.d.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/pages/configuration/configuration.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/configuration/configuration.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/fwmovilidad-qb-home-ita-components-lib.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/public-api.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/lib/components/combo-box/combo-box.component.module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qb-home-ita-pipeline-lib/dist/fwmovilidad/qb-home-ita-components-lib/lib/components/button/button.component.module.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

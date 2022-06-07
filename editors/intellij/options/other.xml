@@ -1,0 +1,218 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="1vrhn1RpnpufyevTllV8HUbYnZp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20EpXhQbgLRUvPjPSxv3y3IbkCf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24Xv5zDy2rQefmEhPm04CqWNub6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24pVYDto1K7XEy9jfqcZ38BEBhR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27Vevfwihl9SneHsRlNQGtlwsn2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1oVaabTGnVOJwIXqMrRLsVXLU3C">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1qLE39Fy3igS86iK0YLMkPpE4Hp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sqHeMAG3cLOyvaWcBvXn9mXw1o">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1sqINM4HMLBUXU2CC0uDO38z3jA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tX6xuinL60WVsChwK4y7VbDVmc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tX7p94AhpcqwBewYKq69e4S4JM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tZSQNsueFyRzYoRwUoW8RH6ckz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tZShv8wkjSxcuobWjmlaaS6mzv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tZXhgGLzQWhtsgd5eHlCiLsrx7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1tuSSCoBRONtEHI8pFx7FEK8Ko6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1twWLEvCC4C1JHQQwW2iFxUhj1c">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uqI5pxe5zG7LUsyk6BnHrtErGr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vrhn1RpnpufyevTllV8HUbYnZp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60507756" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="FindSplitterProportion" value="0.18619792" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="IdeErrorsDialog.LAST_OK_ACTION" value="REPORT_AND_CLEAR_ALL" />
+    <property name="IdeaUltimate.EnableRunTargetsOnce" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="wakatime&#10;waka&#10;wak&#10;wa&#10;eslint" />
+    <property name="KEYMAP" value="MoveLineDown&#10;NewFolder&#10;EditorAddOrRemoveCaret&#10;ShowContent&#10;ShowPopupMenu" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="Markdown Split EditorLayout" value="Editor and Preview" />
+    <property name="MarketplacePluginsSearchHistory" value="wakatime&#10;copi&#10;cop&#10;coplil&#10;eslint" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SHFMT.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shfmt" />
+    <property name="SettingsSearchHistory" value="eslin&#10;Typescript&#10;blame&#10;font&#10;Pull Request" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="Swagger UILayout" value="Editor and Preview" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.48850575" />
+    <property name="appcds.runOnSecondStart" value="IU-213.7172.25-f95a68e066af193d945e11eaca274cba4e9f86fffa6f7570e352c9a344bcf9ef" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IU-213.7172.25" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="evlsprt3.203" value="12" />
+    <property name="evlsprt3.211" value="17" />
+    <property name="evlsprt3.212" value="16" />
+    <property name="evlsprt3.213" value="5" />
+    <property name="exception.accepted.notices" value="182193a2" />
+    <property name="experimentalFeature.run.targets" value="true" />
+    <property name="export.settings.path" value="$USER_HOME$/Escritorio/settings-win.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documentos/projects/AUTOSERVICIO/ionic-angular-archetype&#10;/home/gsese/Documentos/projects/AUTOSERVICIO/Q-B/qb-home-ita-pipeline-webhosting&#10;/home/gsese/Escritorio&#10;/home/gsese/Documentos/projects/AUTOSERVICIO/self-swagger&#10;/home/gsese/Documentos/projects/QuilezApp&#10;/home/gsese/Documentos/projects/AUTOSERVICIO/EVOBOX/AT/filter_labels.sh&#10;/home/gsese/Descargas&#10;/home/gsese/Documentos/projects/AUTOSERVICIO/EVOBOX/AT/self-evobox-ionic5" />
+    <property name="file.gist.reindex.count" value="1095" />
+    <property name="fileTypeChangedCounter" value="22" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.changes.view.toolwindow" value="1" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IU-212.5457.46" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ift.learning.panel.opened.in" value="213.7172.25" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.6.20-release-275-IJ6777.52" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="kotlin.plugin.releaseDate" value="213-1.6.20-release-275-IJ6777.52:2022-04-03" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documentos/projects/AUTOSERVICIO/ionic-angular-archetype" />
+    <property name="new.jvm.backend.notification" value="true" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1650042341373" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="registry.to.advanced.settings.migration.build" value="IU-213.7172.25" />
+    <property name="selected.color.option.type" value="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="shared.index.infrastructure.prop" value="4" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IU-221.5591.52-6ca1c284dbf3bebffdb68f067ba888bc41438d22e3241bc17b7b5f99281d482a",
+    "bundled.plugins.list.saved.version": "IU-221.5591.52",
+    "eclipse.projects.detected": "",
+    "export.settings.path": "/home/gsese/Escritorio.settings.zip",
+    "file.gist.reindex.count": "1",
+    "fileTypeChangedCounter": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "gotit.previous.run": "IU-221.5080.210",
+    "ide.memory.adjusted": "true",
+    "ide.updates.whats.new.shown.for": "221",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5591.52",
+    "registry.to.advanced.settings.migration.build": "IU-221.5591.52",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.6.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="self-swagger-history" project-path="$USER_HOME$/Documentos/projects/AUTOSERVICIO/self-swagger" last-access-time="1653924962995" />
+    </command-history-files>
+  </component>
+</application>

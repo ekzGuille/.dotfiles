@@ -1,0 +1,14 @@
+[user]
+	email = guillermosesesantos@hotmail.com
+	name = Guillermo Sesé
+	signingKey = "C31CC6F6143AA598"
+[core]
+	editor = nvim
+[credential]
+	helper = store
+[gpg]
+	program = gpg
+[commit]
+	gpgSign = true
+[tag]
+	forceSignAnnotated = false

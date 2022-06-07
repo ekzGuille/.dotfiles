@@ -1,0 +1,7 @@
+###
+POST https://apisb.mapfre.com/api/1.0/auto/claim/{{claimId}}/document
+
+###
+GET https://apisb.mapfre.com/api/1.0/catalog/caiForm
+
+<> 2021-12-02T203823.500.xml

@@ -1,0 +1,12 @@
+- clean: ['~']
+
+- defaults:
+    link:
+      create: true
+      force: true
+
+- link:
+    ~/.dotly: os/linux/.dotly
+    # ~/.config/nvim/init.vim: editors/vim/init.vim
+    ~/.config/nvim/lua/custom: editors/vim/nvChad_custom
+    ~/.config/Code/User/keybindingsLinux.json: editors/code/keybindingsLinux.json

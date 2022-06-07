@@ -1,0 +1,8 @@
+izhangzhihao.rainbow.brackets
+zielu.gittoolbox
+org.jetbrains.kotlin
+ru.adelf.idea.dotenv
+Pythonid
+com.github.copilot
+com.wakatime.intellij.plugin
+monokai-pro

@@ -1,0 +1,5 @@
+izhangzhihao.rainbow.brackets
+zielu.gittoolbox
+com.github.copilot
+com.wakatime.intellij.plugin
+monokai-pro

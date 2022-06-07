@@ -1,0 +1,20 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documentos/projects/AUTOSERVICIO/Q-B/qb-home-ita-mcf-pipeline-webhosting" value="true" />
+        <entry key="$USER_HOME$/Documentos/projects/AUTOSERVICIO/Q-B/qb-home-ita-pipeline-lib" value="true" />
+        <entry key="$USER_HOME$/Documentos/projects/AUTOSERVICIO/Q-B/qb-home-ita-pipeline-webhosting" value="true" />
+        <entry key="$USER_HOME$/Documentos/projects/AUTOSERVICIO/QB-HOME-ITA/qb-home-ita-pipeline-webhosting" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Documentos/projects/AUTOSERVICIO/Q-B" />
+        <option value="$USER_HOME$/Documentos/projects/AUTOSERVICIO/QB-HOME-ITA" />
+      </list>
+    </option>
+  </component>
+</application>

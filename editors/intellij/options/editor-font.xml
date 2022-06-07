@@ -1,0 +1,9 @@
+<application>
+  <component name="DefaultFont">
+    <option name="VERSION" value="1" />
+    <option name="FONT_SIZE" value="12" />
+    <option name="FONT_FAMILY" value="Hasklig" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
+    <option name="USE_LIGATURES" value="true" />
+  </component>
+</application>
