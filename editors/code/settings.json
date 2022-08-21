@@ -201,4 +201,8 @@
         "Verti",
         "ZIPCODE"
     ],
+    "terminal.integrated.shellIntegration.enabled": true,
+    "emmet.useInlineCompletions": true,
+    "git.mergeEditor": true,
+    "editor.experimental.stickyScroll.enabled": true
 }
