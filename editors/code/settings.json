@@ -204,5 +204,8 @@
     "terminal.integrated.shellIntegration.enabled": true,
     "emmet.useInlineCompletions": true,
     "git.mergeEditor": true,
-    "editor.experimental.stickyScroll.enabled": true
+    "editor.stickyScroll.enabled": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
 }
