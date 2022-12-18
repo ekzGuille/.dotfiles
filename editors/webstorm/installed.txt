@@ -1,0 +1,5 @@
+com.wakatime.intellij.plugin
+ru.adelf.idea.dotenv
+monokai-pro
+zielu.gittoolbox
+izhangzhihao.rainbow.brackets

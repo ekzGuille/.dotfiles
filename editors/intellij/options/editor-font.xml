@@ -4,6 +4,7 @@
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Hasklig" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="USE_LIGATURES" value="true" />
   </component>
 </application>
