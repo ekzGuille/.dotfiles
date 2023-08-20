@@ -157,7 +157,7 @@
     "editor.inlineSuggest.enabled": true,
     "editor.guides.bracketPairs": "active",
     "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "terminal.integrated.env.osx": {
         "FIG_NEW_SESSION": "1"
     },
@@ -208,4 +208,6 @@
     "editor.smoothScrolling": true,
     "workbench.list.smoothScrolling": true,
     "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.experimental.useVersion2": true,
+    "diffEditor.experimental.collapseUnchangedRegions": true,
 }

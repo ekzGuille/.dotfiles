@@ -12,8 +12,8 @@ CODELY_THEME_STATUS_ICON_KO="🔥"
 # Languages
 # ------------------------------------------------------------------------------
 
-#export JAVA_HOME="/usr/lib/jvm/java-11-amazon-corretto"
-export JAVA_HOME="/usr/lib/jvm/java-1.8.0-amazon-corretto"
+export JAVA_HOME="/usr/lib/jvm/java-11-amazon-corretto"
+# export JAVA_HOME="/usr/lib/jvm/java-1.8.0-amazon-corretto"
 export GEM_HOME="$HOME/.gem"
 export GOPATH="$HOME/.go"
 export NVM_DIR="$HOME/.nvm"
