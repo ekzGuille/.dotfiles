@@ -172,7 +172,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "yaml.format.singleQuote": true,
     "yaml.maxItemsComputed": 50000,
-    "yaml.validate": false,
+    "yaml.validate": true,
     "editor.bracketPairColorization.enabled": true,
     "javascript.inlayHints.variableTypes.enabled": true,
     "typescript.inlayHints.variableTypes.enabled": true,
