@@ -68,33 +68,68 @@
         "notificationLink.foreground": "#C6FF00",
         "activityBar.activeBorder": "#C6FF00",
     },
-    "todohighlight.keywords": [
-        {
-            "text": "TODO",
-            "color": "#000000",
-            "backgroundColor": "#F1C40F",
-        },
-        {
-            "text": "WIP",
-            "color": "#000000",
-            "backgroundColor": "#2ECC71",
-        },
-        {
-            "text": "FIXME",
-            "color": "#000000",
-            "backgroundColor": "#F06292",
-        },
-        {
-            "text": "HACK",
-            "color": "#000000",
-            "backgroundColor": "#3498DB",
-        },
-        {
-            "text": "NOTE",
-            "color": "#000000",
-            "backgroundColor": "#854D27",
-        },
-    ],
+    "todo-tree.highlights.defaultHighlight": {
+		"icon": "alert",
+		"type": "tag",
+		"foreground": "#000000",
+		"background": "#FFFFFF",
+		"opacity": 50,
+		"gutterIcon": false
+	},
+	"todo-tree.highlights.customHighlight": {
+		"TODO": {
+			"icon": "checkbox",
+			"foreground": "#FFFFFF",
+			"background": "#F1C40F",
+			"iconColour": "#F1C40F"
+		},
+		"NOTE": {
+			"icon": "note",
+			"foreground": "#FFFFFF",
+			"background": "#854D27",
+			"iconColour": "#854D27"
+		},
+		"WIP": {
+			"icon": "alert",
+			"foreground": "#FFFFFF",
+			"background": "#2ECC71",
+			"iconColour": "#2ECC71"
+		},
+		"HACK": {
+			"icon": "bookmark",
+			"foreground": "#FFFFFF",
+			"background": "#3498DB",
+			"iconColour": "#3498DB"
+		},
+		"BUG": {
+			"icon": "bug",
+			"foreground": "#FFFFFF",
+			"background": "#DC143C",
+			"iconColour": "#DC143C"
+		},
+		"[ ]": {
+			"icon": "check",
+			"foreground": "#000000",
+			"background": "#FFFFFF",
+			"iconColour": "#FFFF00"
+		},
+		"[x]": {
+			"icon": "check",
+			"foreground": "#FFFFFF",
+			"background": "#008000",
+			"iconColour": "#008000"
+		}
+	},
+	"todo-tree.general.tags": [
+		"TODO",
+		"NOTE",
+		"WIP",
+		"HACK",
+		"BUG",
+		"[ ]",
+		"[x]"
+	],
+	"todo-tree.regex.regex": "(\\*|//|#|<!--|;|/\\*{1,2}\\s(.+)?|^|^\\s*(-|\\d+.))\\s*($TAGS).*(\\n\\s*//\\s{2,}.*)*",
     "editor.multiCursorModifier": "ctrlCmd",
     "workbench.colorTheme": "Monokai Pro (Filter Machine)",
     "editor.acceptSuggestionOnEnter": "smart",
